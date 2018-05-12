@@ -1,0 +1,30 @@
+_repo: The-Essentials-of-IllustrationPhotographs-for-the-Use-of-Scientists--amp--Others_34869
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hill, Thomas George
+    birthdate: 1876
+    deathdate: 1954
+    gutenberg_agent_id: '37290'
+    url: http://www.gutenberg.org/2009/agents/37290
+description: ''
+gutenberg_issued: '2011-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34869'
+  lccn: '16005174'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NE'
+- !lcsh 'Photomechanical processes'
+- !lcsh 'Illustration of books'
+- !lcsh 'Engraving -- Printing'
+title: "The Essentials of Illustration\r\nA Practical Guide to the Reproduction of\
+  \ Drawings & Photographs for the Use of Scientists & Others"
+url: http://www.gutenberg.org/ebooks/34869
