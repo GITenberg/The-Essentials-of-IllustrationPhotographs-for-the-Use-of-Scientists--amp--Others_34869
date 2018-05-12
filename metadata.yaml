@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '37290'
     url: http://www.gutenberg.org/2009/agents/37290
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34869#The-Essentials-of-IllustrationPhotographs-for-the-Use-of-Scientists--amp--Others
 gutenberg_issued: '2011-01-07'
 gutenberg_type: Text
 identifiers:
